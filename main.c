@@ -13,8 +13,6 @@ int main()
 
     for (int i = 0; i < students; i++)
     {
-        printf("Write the result: ");
-
         scanf("%s", names[i]);
 
         for (int j = 0; j < tests; j++)
