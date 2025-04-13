@@ -10,8 +10,8 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": null,
-            "intelliSenseMode": "windows-msvc-x64"
+            "compilerPath": "C:/mingw64/bin/gcc.exe",
+            "intelliSenseMode": "gcc-x64"
         }
     ],
     "version": 4
